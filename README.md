@@ -31,11 +31,11 @@ Refer to `10605_Report.pdf` for full methodology, figures, and analysis.
 
 ## 📁 File Structure
 
-├── 10605_Report.pdf # Full report with methodology, figures, and comparisons
-├── README.md # This file
-├── my_model_weights_1.pt # Pretrained model (baseline or L1 pruned)
-├── my_model_weights_2.pt # Model after WANDA pruning
-├── my_model_weights_3.pt # Model after Network Slimming and fine-tuning
+- 10605_Report.pdf # Full report with methodology, figures, and comparisons
+- README.md # This file
+- my_model_weights_1.pt # Pretrained model (baseline or L1 pruned)
+- my_model_weights_2.pt # Model after WANDA pruning
+- my_model_weights_3.pt # Model after Network Slimming and fine-tuning
 
 ## 👥 Authors
 
